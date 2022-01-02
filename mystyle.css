@@ -1,0 +1,36 @@
+body {
+	font-size: 15px;
+	margin: 30px;
+	font-family: "Courier New";
+	color: #222831;
+	background-color: #eeeeee;
+}
+
+img {
+	border-radius: 5px;
+  vertical-align: center;
+	margin: 25px;
+	box-shadow: 0 2px 4px 0 #393e46, 0 3px 10px 0 #393e46;
+}
+
+h2 {
+	font-weight: bolder;
+	text-shadow: 2px 2px 5px #393e46;
+}
+
+fieldset {
+	color: #393e46;
+	border-radius: 5px;
+	width: 80%;
+	border: #e40017 solid 1px;
+}
+
+label {
+	text-align: right;
+}
+
+.button {
+	background-color: #e40017;
+	color: #eeeeee;
+}
+
